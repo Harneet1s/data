@@ -4,9 +4,7 @@
 
 {"state": "Andhra Pradesh","confirmed": 1259,"deaths":31,"recovered":258, "active":9},
     
-    
-    
-    {
+{
         "state": "Arunachal Pradesh",
          "confirmed": 1,
         "recovered": 1,
@@ -53,7 +51,7 @@
         "active": 28
       },
       
-        "state": "Delhi",
+       
 {
           "state": "Delhi",
          "confirmed": 3108,
