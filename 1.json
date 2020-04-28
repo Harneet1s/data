@@ -1,27 +1,8 @@
 [
 
-{
-   "state": "Andaman and Nicobar Islands",
-      
-        "confirmed": 33,
-        "recovered": 15,
-        "deaths": 0,
-        "active": 18
+{"state": "Andaman and Nicobar Islands","confirmed": 33,"recovered": 15,"deaths": 0,"active": 18},
 
-},
-
-
-   {
-        "state": "Andhra Pradesh",
-      
-        "confirmed": 1259,
-        "recovered": 258,
-        "deaths": 31,
-        "active": 970
-      }
-
-
-
+{"state": "Andhra Pradesh","confirmed": 1259,"recovered": 258,"deaths": 31, "active": 9}
 ]
 
 
