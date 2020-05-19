@@ -1,9 +1,9 @@
 {
-        "state": "Goa",
-        "confirmed": 7,
+		"state": "Goa",
+        "confirmed": 46,
         "recovered": 7,
         "deaths": 0,
-        "active": 0,
+        "active": 39
 		"doubling": 0,
 		"growth": 31
       }

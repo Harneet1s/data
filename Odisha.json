@@ -1,9 +1,9 @@
 {
         "state": "Odisha",
-        "confirmed": 437,
-        "recovered": 85,
-        "deaths": 3,
-        "active": 349 ,
+        "confirmed": 978,
+        "recovered": 307,
+        "deaths": 5,
+        "active": 666,
 		"doubling": 6.6,
 		"growth": 5.8
       }

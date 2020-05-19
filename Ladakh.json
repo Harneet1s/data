@@ -1,9 +1,9 @@
 {
         "state": "Ladakh",
-        "confirmed": 42,
-        "recovered": 22,
+        "confirmed": 43,
+        "recovered": 43,
         "deaths": 0,
-        "active": 20,
+        "active": 0,
 		"doubling":33.3,
 		"growth":0
       }

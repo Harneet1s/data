@@ -1,9 +1,9 @@
  {
         "state": "Maharashtra",
-        "confirmed": 23401,
-        "recovered": 4786,
-        "deaths": 868,
-        "active": 17747,
+        "confirmed": 35058,
+        "recovered": 8437,
+        "deaths": 1249,
+        "active": 25372,
 		"doubling": 6.5,
 		"growth": 6.1
       }

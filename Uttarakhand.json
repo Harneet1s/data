@@ -1,9 +1,9 @@
 {
-        "state": "Uttarakhand",
-        "confirmed": 68,
-        "recovered": 46,
+		"state": "Uttarakhand",
+        "confirmed": 111,
+        "recovered": 52,
         "deaths": 1,
-        "active": 21,
+        "active": 58,
 		"doubling": 11,
 		"growth": 4.3
       }

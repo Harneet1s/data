@@ -1,9 +1,9 @@
  {
         "state": "Puducherry",
-        "confirmed": 12,
-        "recovered": 9,
+        "confirmed": 22,
+        "recovered": 10,
         "deaths": 0,
-        "active": 3,
+        "active": 12,
 		"doubling": 13.8,
 		"growth": 0
       }

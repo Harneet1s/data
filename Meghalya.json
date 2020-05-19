@@ -1,9 +1,9 @@
  {
         "state": "Meghalaya",
         "confirmed": 13,
-        "recovered": 10,
+        "recovered": 12,
         "deaths": 1,
-        "active": 2,
+        "active": 0,
 		"doubling": 0,
 		"growth": 0
       }

@@ -1,9 +1,9 @@
 {
-        "state": "Jammu and Kashmir",
-        "confirmed": 879,
-        "recovered": 427,
-        "deaths": 10,
-        "active": 442,
+       "state": "Jammu and Kashmir",
+        "confirmed": 1317,
+        "recovered": 647,
+        "deaths": 17,
+        "active": 653,
 		"doubling": 6.7,
 		"growth": 9
       }
