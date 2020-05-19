@@ -3,5 +3,7 @@
         "confirmed": 1275,
         "recovered": 801,
         "deaths": 30,
-        "active": 444
+        "active": 444,
+		"doubling": 9.2,
+		"growth": 2.6
       }
