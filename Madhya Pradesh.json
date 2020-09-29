@@ -1,9 +1,7 @@
 {
         "state": "Madhya Pradesh",
-        "confirmed": 5465,
-        "recovered": 2631,
-        "deaths": 258,
-        "active": 2576,
-		"doubling": 5.7,
-		"growth": 5.2
+    "confirmed": 124166,
+    "recovered": 100012,
+    "deaths": 2242,
+    "active": 21912
       }

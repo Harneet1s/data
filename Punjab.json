@@ -1,9 +1,7 @@
  {
         "state": "Punjab",
-        "confirmed": 2002,
-        "recovered": 1642,
-        "deaths": 38,
-        "active": 322,
-		"doubling": 8.3,
-		"growth": 0.8
+    "confirmed": 111375,
+    "recovered": 90345,
+    "deaths": 3284,
+    "active": 17746
       }

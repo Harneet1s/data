@@ -1,9 +1,7 @@
 {
         "state": "Kerala",
-        "confirmed": 643,
-        "recovered": 497,
-        "deaths": 4,
-        "active": 142,
-		"doubling": 16.3,
-		"growth": 4.8
+    "confirmed": 179923,
+    "recovered": 121264,
+    "deaths": 698,
+    "active": 57882
       }

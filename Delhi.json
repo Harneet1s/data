@@ -1,9 +1,7 @@
 {
         "state": "Delhi",
-        "confirmed": 7639,
-        "recovered": 2512,
-        "deaths": 86,
-        "active": 5041,
-		"doubling": 6.6,
-		"growth": 3.1
+    "confirmed": 273098,
+    "recovered": 240703,
+    "deaths": 5272,
+    "active": 27123
       }

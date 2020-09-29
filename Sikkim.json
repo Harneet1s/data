@@ -1,9 +1,7 @@
 {
         "state": "Sikkim",
-        "confirmed": 0,
-        "recovered": 0,
-        "deaths": 0,
-        "active": 0,
-		"doubling": 0,
-		"growth": 0
+    "confirmed": 2815,
+    "recovered": 2083,
+    "deaths": 35,
+    "active": 697
       }

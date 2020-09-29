@@ -1,9 +1,7 @@
 {
         "state": "Rajasthan",
-        "confirmed": 5757,
-        "recovered": 3232,
-        "deaths": 139,
-        "active": 2386,
-		"doubling": 7.3,
-		"growth": 5.9
+    "confirmed": 130971,
+    "recovered": 109472,
+    "deaths": 1456,
+    "active": 20043
       }

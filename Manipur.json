@@ -1,9 +1,7 @@
  {
         "state": "Manipur",
-        "confirmed": 7,
-        "recovered": 2,
-        "deaths": 0,
-        "active": 5,
-		"doubling": 0,
-		"growth": 0
+    "confirmed": 10477,
+    "recovered": 7982,
+    "deaths": 64,
+    "active": 2431
       }

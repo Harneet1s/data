@@ -1,9 +1,8 @@
  {
-        "state": "Bihar",
-        "confirmed": 767,
-        "recovered": 382,
-        "deaths": 6,
-        "active": 379,
-		"doubling": 6,
-		"growth": 7.8
-      }
+    "state": "Bihar",
+    "confirmed": 180032,
+    "recovered": 166188,
+    "deaths": 892,
+    "active": 12951
+      
+}

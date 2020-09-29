@@ -1,9 +1,7 @@
 {
         "state": "Jharkhand",
-        "confirmed": 233,
-        "recovered": 127,
-        "deaths": 3,
-        "active": 103,
-		"doubling": 0,
-		"growth": 2.2
+    "confirmed": 81417,
+    "recovered": 68603,
+    "deaths": 688,
+    "active": 12126
       }

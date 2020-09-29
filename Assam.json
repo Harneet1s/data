@@ -1,9 +1,7 @@
 {
         "state": "Assam",
-        "confirmed": 65,
-        "recovered": 40,
-        "deaths": 1,
-        "active": 24,
-		"doubling": 0,
-		"growth": 15.3
+    "confirmed": 173629,
+    "recovered": 142297,
+    "deaths": 667,
+    "active": 30662
       }

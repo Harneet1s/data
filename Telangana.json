@@ -1,9 +1,7 @@
 {
         "state": "Telangana",
-        "confirmed": 1275,
-        "recovered": 801,
-        "deaths": 30,
-        "active": 444,
-		"doubling": 9.2,
-		"growth": 2.6
+    "confirmed": 189283,
+    "recovered": 158690,
+    "deaths": 1116,
+    "active": 29477
       }

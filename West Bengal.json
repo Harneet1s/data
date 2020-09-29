@@ -1,9 +1,7 @@
 {
-       "state": "West Bengal",
-        "confirmed": 2961,
-        "recovered": 1074,
-        "deaths": 250,
-        "active": 1637,
-		"doubling": 6.5,
-		"growth": 5.5
+        "state": "West Bengal",
+    "confirmed": 250580,
+    "recovered": 219844,
+    "deaths": 4837,
+    "active": 25899
       }

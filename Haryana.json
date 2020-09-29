@@ -1,9 +1,7 @@
 {
         "state": "Haryana",
-        "confirmed": 964,
-        "recovered": 627,
-        "deaths": 14,
-        "active": 323,
-		"doubling": 10.1,
-		"growth": 2
+    "confirmed": 125412,
+    "recovered": 108411,
+    "deaths": 1331,
+    "active": 15670
       }

@@ -1,9 +1,7 @@
 {
         "state": "Chandigarh",
-        "confirmed": 187,
-        "recovered": 28,
-        "deaths": 3,
-        "active": 156,
-		"doubling": 10.9,
-		"growth": 2.6
+    "confirmed": 11678,
+    "recovered": 9325,
+    "deaths": 153,
+    "active": 2200
       }

@@ -1,9 +1,7 @@
 {
         "state": "Tripura",
-        "confirmed": 165,
-        "recovered": 116,
-        "deaths": 0,
-        "active": 49,
-		"doubling": 0,
-		"growth":0
+    "confirmed": 25350,
+    "recovered": 19180,
+    "deaths": 273,
+    "active": 5874
       }

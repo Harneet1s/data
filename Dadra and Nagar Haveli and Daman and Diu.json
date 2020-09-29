@@ -1,9 +1,7 @@
  {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
-        "confirmed": 1,
-        "recovered": 0,
-        "deaths": 0,
-        "active": 1,
-		"doubling": 0,
-		"growth": 0
+    "confirmed": 3015,
+    "recovered": 2836,
+    "deaths": 2,
+    "active": 145
       }

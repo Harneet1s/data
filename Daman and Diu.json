@@ -3,7 +3,5 @@
         "confirmed": 0,
         "recovered": 0,
         "deaths": 0,
-        "active": 0,
-		"doubling": 0,
-		"growth": 0
+        "active": 0
       }

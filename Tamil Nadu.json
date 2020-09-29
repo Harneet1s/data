@@ -1,9 +1,7 @@
 {
         "state": "Tamil Nadu",
-        "confirmed": 12448,
-        "recovered": 4895,
-        "deaths": 85,
-        "active": 7468,
-		"doubling": 5.5,
-		"growth": 4.8
+    "confirmed": 586397,
+    "recovered": 530708,
+    "deaths": 9383,
+    "active": 46306
       }

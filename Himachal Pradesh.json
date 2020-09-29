@@ -1,9 +1,7 @@
 {
         "state": "Himachal Pradesh",
-        "confirmed": 90,
-        "recovered": 45,
-        "deaths": 3,
-        "active": 39,
-		"doubling": 10.3,
-		"growth": 12.5
+    "confirmed": 14457,
+    "recovered": 10607,
+    "deaths": 175,
+    "active": 3650
       }

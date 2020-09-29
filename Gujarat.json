@@ -1,9 +1,7 @@
 {
         "state": "Gujarat",
-        "confirmed": 12141,
-        "recovered": 5043,
-        "deaths": 719,
-        "active": 6379,
-		"doubling": 6,
-		"growth": 3.2
+    "confirmed": 134623,
+    "recovered": 114576,
+    "deaths": 3431,
+    "active": 16616
       }

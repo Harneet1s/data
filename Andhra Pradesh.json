@@ -1,9 +1,7 @@
 {
         "state": "Andhra Pradesh",
-        "confirmed": 2051,
-        "recovered": 1056,
-        "deaths": 46,
-        "active": 949,
-		"doubling": 6.3,
-		"growth": 2.2
+    "confirmed": 681161,
+    "recovered": 612300,
+    "deaths": 5745,
+    "active": 63116
       }

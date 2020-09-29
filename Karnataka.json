@@ -1,9 +1,7 @@
 {
         "state": "Karnataka",
-        "confirmed": 1395,
-        "recovered": 543,
-        "deaths": 40,
-        "active": 811,
-		"doubling": 10.1,
-		"growth": 8.6
+    "confirmed": 582458,
+    "recovered": 469750,
+    "deaths": 8641,
+    "active": 104048
       }

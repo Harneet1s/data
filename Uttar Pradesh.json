@@ -1,9 +1,7 @@
 {
-       "state": "Uttar Pradesh",
-        "confirmed": 4605,
-        "recovered": 2783,
-        "deaths": 118,
-        "active": 1704,
-		"doubling": 7.6,
-		"growth": 3.2
+        "state": "Uttar Pradesh",
+    "confirmed": 390875,
+    "recovered": 331270,
+    "deaths": 5652,
+    "active": 53953
       }
