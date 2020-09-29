@@ -1,265 +1,265 @@
 [
   {
-    "State": "Total",
+    "state": "Total",
     "confirmed": 6148640,
     "recovered": 5101118,
     "deaths": 96378,
     "active": 950284
   },
   {
-    "State": "Maharashtra",
+    "state": "Maharashtra",
     "confirmed": 1351153,
     "recovered": 1049947,
     "deaths": 35751,
     "active": 265033
   },
   {
-    "State": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
     "confirmed": 681161,
     "recovered": 612300,
     "deaths": 5745,
     "active": 63116
   },
   {
-    "State": "Tamil Nadu",
+    "state": "Tamil Nadu",
     "confirmed": 586397,
     "recovered": 530708,
     "deaths": 9383,
     "active": 46306
   },
   {
-    "State": "Karnataka",
+    "state": "Karnataka",
     "confirmed": 582458,
     "recovered": 469750,
     "deaths": 8641,
     "active": 104048
   },
   {
-    "State": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
     "confirmed": 390875,
     "recovered": 331270,
     "deaths": 5652,
     "active": 53953
   },
   {
-    "State": "Delhi",
+    "state": "Delhi",
     "confirmed": 273098,
     "recovered": 240703,
     "deaths": 5272,
     "active": 27123
   },
   {
-    "State": "West Bengal",
+    "state": "West Bengal",
     "confirmed": 250580,
     "recovered": 219844,
     "deaths": 4837,
     "active": 25899
   },
   {
-    "State": "Odisha",
+    "state": "Odisha",
     "confirmed": 215676,
     "recovered": 177585,
     "deaths": 881,
     "active": 37210
   },
   {
-    "State": "Telangana",
+    "state": "Telangana",
     "confirmed": 189283,
     "recovered": 158690,
     "deaths": 1116,
     "active": 29477
   },
   {
-    "State": "Bihar",
+    "state": "Bihar",
     "confirmed": 180032,
     "recovered": 166188,
     "deaths": 892,
     "active": 12951
   },
   {
-    "State": "Assam",
+    "state": "Assam",
     "confirmed": 173629,
     "recovered": 142297,
     "deaths": 667,
     "active": 30662
   },
   {
-    "State": "Kerala",
+    "state": "Kerala",
     "confirmed": 179923,
     "recovered": 121264,
     "deaths": 698,
     "active": 57882
   },
   {
-    "State": "Gujarat",
+    "state": "Gujarat",
     "confirmed": 134623,
     "recovered": 114576,
     "deaths": 3431,
     "active": 16616
   },
   {
-    "State": "Rajasthan",
+    "state": "Rajasthan",
     "confirmed": 130971,
     "recovered": 109472,
     "deaths": 1456,
     "active": 20043
   },
   {
-    "State": "Haryana",
+    "state": "Haryana",
     "confirmed": 125412,
     "recovered": 108411,
     "deaths": 1331,
     "active": 15670
   },
   {
-    "State": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
     "confirmed": 124166,
     "recovered": 100012,
     "deaths": 2242,
     "active": 21912
   },
   {
-    "State": "Punjab",
+    "state": "Punjab",
     "confirmed": 111375,
     "recovered": 90345,
     "deaths": 3284,
     "active": 17746
   },
   {
-    "State": "Chhattisgarh",
+    "state": "Chhattisgarh",
     "confirmed": 108458,
     "recovered": 74537,
     "deaths": 877,
     "active": 33044
   },
   {
-    "State": "Jharkhand",
+    "state": "Jharkhand",
     "confirmed": 81417,
     "recovered": 68603,
     "deaths": 688,
     "active": 12126
   },
   {
-    "State": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
     "confirmed": 73014,
     "recovered": 54267,
     "deaths": 1146,
     "active": 17601
   },
   {
-    "State": "Uttarakhand",
+    "state": "Uttarakhand",
     "confirmed": 47502,
     "recovered": 36646,
     "deaths": 580,
     "active": 10066
   },
   {
-    "State": "Goa",
+    "state": "Goa",
     "confirmed": 32396,
     "recovered": 27072,
     "deaths": 407,
     "active": 4917
   },
   {
-    "State": "Puducherry",
+    "state": "Puducherry",
     "confirmed": 26685,
     "recovered": 21156,
     "deaths": 515,
     "active": 5014
   },
   {
-    "State": "Tripura",
+    "state": "Tripura",
     "confirmed": 25350,
     "recovered": 19180,
     "deaths": 273,
     "active": 5874
   },
   {
-    "State": "Himachal Pradesh",
+    "state": "Himachal Pradesh",
     "confirmed": 14457,
     "recovered": 10607,
     "deaths": 175,
     "active": 3650
   },
   {
-    "State": "Chandigarh",
+    "state": "Chandigarh",
     "confirmed": 11678,
     "recovered": 9325,
     "deaths": 153,
     "active": 2200
   },
   {
-    "State": "Manipur",
+    "state": "Manipur",
     "confirmed": 10477,
     "recovered": 7982,
     "deaths": 64,
     "active": 2431
   },
   {
-    "State": "Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
     "confirmed": 9332,
     "recovered": 6592,
     "deaths": 15,
     "active": 2725
   },
   {
-    "State": "Nagaland",
+    "state": "Nagaland",
     "confirmed": 5957,
     "recovered": 4897,
     "deaths": 12,
     "active": 1002
   },
   {
-    "State": "Meghalaya",
+    "state": "Meghalaya",
     "confirmed": 5362,
     "recovered": 3868,
     "deaths": 46,
     "active": 1448
   },
   {
-    "State": "Ladakh",
+    "state": "Ladakh",
     "confirmed": 4152,
     "recovered": 3064,
     "deaths": 58,
     "active": 1030
   },
   {
-    "State": "Andaman and Nicobar Islands",
+    "state": "Andaman and Nicobar Islands",
     "confirmed": 3803,
     "recovered": 3582,
     "deaths": 53,
     "active": 168
   },
   {
-    "State": "Dadra and Nagar Haveli and Daman and Diu",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
     "confirmed": 3015,
     "recovered": 2836,
     "deaths": 2,
     "active": 145
   },
   {
-    "State": "Sikkim",
+    "state": "Sikkim",
     "confirmed": 2815,
     "recovered": 2083,
     "deaths": 35,
     "active": 697
   },
   {
-    "State": "Mizoram",
+    "state": "Mizoram",
     "confirmed": 1958,
     "recovered": 1459,
     "deaths": 0,
     "active": 499
   },
   {
-    "State": "State Unassigned",
+    "state": "State Unassigned",
     "confirmed": 0,
     "recovered": 0,
     "deaths": 0,
     "active": 0
   },
   {
-    "State": "Lakshadweep",
+    "state": "Lakshadweep",
     "confirmed": 0,
     "recovered": 0,
     "deaths": 0,
